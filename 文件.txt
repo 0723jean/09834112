@@ -1,0 +1,56 @@
+﻿<html>
+<html>
+<head>
+<title>90834112 期末作業 </title>
+</head>
+<body>
+
+<a href="2nd.html">石鍋明太子拌飯</a>
+<a href="3nd.html">豬大腸頭</a>
+<a href="4nd.html">抹茶粉冰淇淋</a>
+<a href="5nd.html">心得</a>
+
+
+<h1>牛角日本燒肉</h1>
+
+<table border="1">
+<tr>
+<td>圖片</td>
+<td>標題</td>
+<td>說明</td>
+</tr>
+
+<tr>
+<td><img src="https://pic.pimg.tw/ctrls54600/1545557838-3451539912.jpg" width="300" heigh="300" alt="一張圖片"><p>
+<td><h2>石鍋明太子拌飯</h2></td>
+<td>牛角的餐點都不小氣 還可以說是大氣 因為份量大 所以很快就飽<br>
+隨行的友人問了份量大還是小 服務人員說很小一份只有掌中大<br>
+這橫看豎看好像是二隻手合起來的Size吧<br>
+感情你們的掌中大 是巨人的手嗎?餐點上桌時這群人臉都綠了，因為各點一碗XDDD <br><p></td>
+</tr>
+
+
+<tr>
+<td><img src="https://pic.pimg.tw/ctrls54600/1545557842-181595771.jpg" width="300" heigh="300" alt="一張圖片"><p>
+<td><h2>豬大腸頭</h2></td>
+<td>牛角的燒烤都有分醬料種類<br>
+如果想吃食物最原始的味道那就鹽燒吧!烤大腸頭怎樣才算熟<br>
+就是烤到乾乾扁扁又帶點焦酥的脆度就是熟了<br><p></td>
+</tr>
+
+
+
+
+<tr>
+<td><img src="https://pic.pimg.tw/ctrls54600/1545557861-1783446646.jpg" width="300" heigh="300" alt="一張圖片"><p>
+<td><h2>抹茶粉冰淇淋</h2></td>
+<td>冰淇淋是香草口味，上頭撒了大量旳抹茶粉 <br>
+這種吃法還是第一次，感覺像在吃麵茶一樣，我懷念在碳佐吃的抹茶冰。<br><p></td>
+</tr>
+
+<audio src="001.mp3"autoplay controls></audio>
+
+</body>
+</html>
+
+
